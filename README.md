@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shoshi</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShoshiBnayahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShoshiBnayahu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShoshiBnayahu" alt="ShoshiBnayahu" /></a> </p>
