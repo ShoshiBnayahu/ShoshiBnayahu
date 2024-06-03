@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shoshi</h1>
-<h3 align="center">A passionate software developer from Israel</h3>
+<h3 align="center">A passionate software developer from Israel<br/>I am a passionate software developer who loves the world of development. I enjoy learning new technologies and developing innovative solutions that have a positive impact. If you are looking for a dedicated software developer, I would love to join your team!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShoshiBnayahu&label=Profile%20views&color=0e75b6&style=flat" alt="ShoshiBnayahu" /> </p>
 
